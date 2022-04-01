@@ -1,5 +1,5 @@
 # 2022_CS4386_assignment1
- CityU CS4386 Assignment 1
+ CityU CS4386 Assignment 1 (Board Game With AI AlphaBeta Pruning)
 2022.3.20
 ----------------------------------
 cmd run:
