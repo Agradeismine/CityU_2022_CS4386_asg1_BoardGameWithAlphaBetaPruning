@@ -212,9 +212,10 @@ public class TestMain {
 
 
 
-        move = abNegamax(state, 0, true, -INFINITY, INFINITY).bestMove;
+        // move = abNegamax(state, 0, true, -INFINITY, INFINITY).bestMove;
+        System.out.println("john" == "johnn");
 
-        System.out.println("Line213: Returned move: " + move[0] + "," + move[1]);
+        // System.out.println("Line213: Returned move: " + move[0] + "," + move[1]);
 
     }
 }

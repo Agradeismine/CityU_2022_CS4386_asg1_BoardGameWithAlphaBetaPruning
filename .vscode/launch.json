@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch TestMain",
+            "request": "launch",
+            "mainClass": "TestMain",
+            "projectName": "CityU_2022_CS4386_asg1_BoardGameWithAlphaBetaPruning_fec305d1"
+        },
+        {
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",
